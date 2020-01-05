@@ -1,7 +1,7 @@
 {
     "NAME":"Kosmodrome",
     "URL":"https://raw.githubusercontent.com/JadeOfMaar/Kosmodrome/master/GameData/Kosmodrome/Version/Kosmodrome.version",
-    "DOWNLOAD":"https://github.com/Galileo88/JNSQ/releases",
+    "DOWNLOAD":"https://github.com/JadeOfMaar/Kosmodrome/releases",
     "CHANGE_LOG_URL":"https://raw.githubusercontent.com/JadeOfMaar/Kosmodrome/master/GameData/Kosmodrome/Version/Changelog.md",
     "VERSION":{
         "MAJOR":1,
