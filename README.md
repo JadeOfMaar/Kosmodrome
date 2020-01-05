@@ -10,8 +10,9 @@ This mod was requested by @Angel-125 for use in JNSQ for his own Soviet program.
 * One helipad.
 * One runway with two spawn points. The terminal roadside spawn point is open by default for starters.
 * The plateau has a high-powered (for the early game: 420km) built-in DSN antenna.
-* Plateau is colored to fit JNSQ Kerbin desert, not Squad's Kerbin desert.
+* Plateau is colored to fit JNSQ Kerbin desert, not stock Kerbin desert.
 * Flood lights animate on click.
+* Positions itself correctly (with MapDecal) on stock Kerbin and JNSQ Kerbin.
 
 Licensed CC-BY-NC-SA.
 
