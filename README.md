@@ -1,4 +1,5 @@
 # Kosmodrome
+### Licensed CC-BY-NC-SA
 [Imgur album](https://imgur.com/a/C7D7xIM) features all spawn points except the helipad. Images freshly taken today but somewhat outdated now as the MapDecals weren't added yet.
 
 ![Image](https://i.imgur.com/rHgvRlI.jpg)
